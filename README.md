@@ -24,8 +24,3 @@ images must be of type `float32` and labels of type `int16`
 ```
 ./build/bin/app ./params.ini <path_to_target> <path_to_target_labels> <path_to_source> <path_to_source_labels> <output_path>
 ```
-
-reference
------------
-D. Grzech et al., “FastReg: Fast Non-Rigid Registration via Accelerated Optimisation on the Manifold of Diffeomorphisms”, 2019.
-
